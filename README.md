@@ -1,2 +1,2 @@
 # vertica
-PL/SQL Practice repo
+PL/SQL Practice repository
